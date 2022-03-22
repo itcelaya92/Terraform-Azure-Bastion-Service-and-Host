@@ -1,5 +1,6 @@
 # Terraform-Azure-Bastion-Service-and-Host
 Example of two implementation of Bastion on Azure using Terraform
+https://youtu.be/bbI_q3d2Jo8
 
 ![bastion](https://user-images.githubusercontent.com/87040483/159498729-379d5734-b3e7-446e-a835-459ece3c8c13.png)
 ![bastion1](https://user-images.githubusercontent.com/87040483/159498733-ef2df18f-2061-4703-b93a-0febd522e39d.png)
